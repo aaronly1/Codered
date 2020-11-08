@@ -3,7 +3,6 @@ var markers = [];
 var infoWindow;
 
 const API_URL = "https://api.bill.com/api/v2/"; 
-const developer_key = "01EJANXDDSOOVBNKZ481";
 
 // Geocoding API
 const geocode_API = "AIzaSyATEM4J1Oa8UGZIsDH4ITK1omPh-brtzTM"; 
